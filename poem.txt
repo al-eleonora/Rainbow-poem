@@ -1,4 +1,4 @@
-The Rainbow
+The Rainbow and the unicorn
 
 Pink
 Red
@@ -7,5 +7,6 @@ Yellow
 Purple 
 Green
 White
-
-This is my poem
+Unicorn
+This is my poem 
+This is about unicorn.
