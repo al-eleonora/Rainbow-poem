@@ -3,5 +3,7 @@ The Rainbow
 Pink
 Red
 Blue
+Yellow
 Purple 
 Green
+White
